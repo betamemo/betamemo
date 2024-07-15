@@ -7,6 +7,7 @@ I'm Bandita, a dedicated learner with a background in computer science. I have a
 - **Frameworks:** Bootstrap, Flutter, Laravel, Tailwind CSS
 - **Development Tools:** Visual Studio Code, Eclipse, pyCharm, Pegasystems
 - **DevOps Tools:** CI/CD, Jenkins, JFrog, SonarQube, Terraform
+- **Test Automation:** Robot Framework, Selenium Library
 - **Data Analytics:** R, Excel, Tableau, Stata
 - **Database:** MySQL
 - **Control Version:** Git
@@ -14,8 +15,9 @@ I'm Bandita, a dedicated learner with a background in computer science. I have a
 - **Project Management:** Agile
 
 **Get in touch:**
-⚡️ [LinkedIn](https://www.linkedin.com/in/banditakul) |
-☁️ [GCP](https://g.dev/betamemo)
+[LinkedIn](https://www.linkedin.com/in/banditakul) |
+[WordPress](https://betamemo.wordpress.com) |
+[GCP](https://g.dev/betamemo)
 
 Feel free to connect or reach out if you're interested in collaborating on something exciting! 😊
 
